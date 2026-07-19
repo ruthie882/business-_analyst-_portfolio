@@ -19,5 +19,5 @@ Featured Projects;
 
 -Commercial partnership strategy for Voyapp (coming soon )
 
--Sales performance dashboard -POwer Bi / Excel 
+-Sales performance dashboard -Power Bi / Excel 
 
